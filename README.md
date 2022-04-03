@@ -1,16 +1,31 @@
 # tap_dice
 
-A new Flutter project.
+Made With : Flutter
 
-## Getting Started
+Video :
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/72383774/161444563-ac03bdfc-067e-44f3-97a4-f356a322c81f.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- What the project does  
+It shows two dice 🎲🎲
+By tapping you can change the value of die
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Why the project is useful  
+You can :
+  - Use it as stub project and customise it as per your inclinations
+  - Use it as virtual die for boardgames
+  - Use it to settle petty disputes like who's going to do laundry 😆
+
+- How users can get started with the project  
+1. Fork it (optional) 🍴
+2. Clone it 
+3. Start Editing 💻
+
+- Where users can get help with your project  
+
+  Get help at [Flutter Documentation](https://docs.flutter.dev/) and [Dart Documentation](https://dart.dev/guides)
+
+- Who maintains and contributes to the project  
+  
+  I will be maintaining this project and you all are free to contribute to this project.
