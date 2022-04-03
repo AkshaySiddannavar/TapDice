@@ -6,6 +6,7 @@ Video :
 
 https://user-images.githubusercontent.com/72383774/161444563-ac03bdfc-067e-44f3-97a4-f356a322c81f.mp4
 
+Link for video : https://github.com/AkshaySiddannavar/TapDice/blob/main/tap_dice_video.mp4
 
 - What the project does  
 It shows two dice 🎲🎲  
