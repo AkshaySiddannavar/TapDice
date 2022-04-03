@@ -8,8 +8,8 @@ https://user-images.githubusercontent.com/72383774/161444563-ac03bdfc-067e-44f3-
 
 
 - What the project does  
-It shows two dice 🎲🎲
-By tapping you can change the value of die
+It shows two dice 🎲🎲  
+By tapping you can change the value of dice
 
 - Why the project is useful  
 You can :
